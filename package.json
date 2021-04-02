@@ -2,7 +2,7 @@
   "name": "monsters-project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://thomasdos.github.io/monsters-rodolex", 
+  "homepage": "https://thomasdos.github.io/monsters-rodolex/", 
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.8",
     "@testing-library/react": "^11.2.2",
